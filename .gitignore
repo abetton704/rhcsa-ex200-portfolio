@@ -1,0 +1,8 @@
+# Never commit secrets or private keys
+*.key
+id_*
+!*.pub
+*shadow*
+*.pem
+*.swp
+*~
